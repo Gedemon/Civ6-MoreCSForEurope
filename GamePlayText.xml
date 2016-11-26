@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+  <!-- City States Pedia -->
+  <LocalizedText>	
+	
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_RABAT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      	<Text>
+			Rabat's history began with a settlement, known as Chellah on the banks of the Oued Bou Regreg in the third century BC. In 40 AD, Romans took over Chellah and converted it to the Roman settlement of Sala Colonia. Rome held the colony until 250 AD when they abandoned it to local rulers. In 1146, the Almohad ruler Abd al-Mu'min turned Rabat's ribat into a full scale fortress to use as a launching point for attacks on Spain. In 1170, due to its military importance, Rabat acquired the title Ribatu l-Fath, meaning "stronghold of victory," from which it derives its current name.[NEWLINE][NEWLINE]Yaqub al-Mansur (known as Moulay Yacoub in Morocco), another Almohad Caliph, moved the capital of his empire to Rabat. He built Rabat's city walls, the Kasbah of the Udayas and began construction on what would have been the world's largest mosque. However, Yaqub died and construction stopped. The ruins of the unfinished mosque, along with the Hassan Tower, still stand today.[NEWLINE][NEWLINE]Yaqub's death initiated a period of decline. The Almohad empire lost control of its possessions in Spain and much of its African territory, eventually leading to its total collapse. In the 13th century, much of Rabat's economic power shifted to Fez. In 1515 a Moorish explorer, El Wassan, reported that Rabat had declined so much that only 100 inhabited houses remained. An influx of Moriscos, who had been expelled from Spain, in the early 17th century helped boost Rabat's growth.[NEWLINE][NEWLINE]Rabat and neighboring Salé united to form the Republic of Bou Regreg in 1627. The republic was run by Barbary pirates who used the two cities as base ports for launching attacks on shipping. The pirates did not have to contend with any central authority until the Alaouite Dynasty united Morocco in 1666. The latter attempted to establish control over the pirates, but failed. European and Muslims authorities continued to attempt to control the pirates over many years, but the Republic of Bou Regreg did not collapse until 1818. Even after the republic's collapse, pirates continued to use the port of Rabat, which led to the shelling of the city by Austria in 1829 after an Austrian ship had been lost to a pirate attack.[NEWLINE][NEWLINE]The French invaded Morocco in 1912 and established a protectorate. The French administrator of Morocco, General Hubert Lyautey, decided to relocate the country's capital from Fez to Rabat. Among other factors, rebellious citizens had made Fez an unstable place. Sultan Moulay Youssef followed the decision of the French and moved his residence to Rabat. In 1913, Gen. Lyautey hired Henri Prost who designed the Ville Nouvelle (Rabat's modern quarter) as an administrative sector. When Morocco achieved independence in 1956, Mohammed V, the then King of Morocco, chose to have the capital remain at Rabat. (from wikipedia)
+		</Text>
+    </Replace>	
+	
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_REYKJAVIK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      	<Text>
+			Reykjavik is the capital and largest city of Iceland. Its latitude at 64°08' N makes it the world's northernmost capital of a sovereign state. It is located in southwestern Iceland, on the southern shore of Faxaflói Bay. With a population of around 120,000 (and over 200,000 in the Greater Reykjavík Area) it is the heart of Iceland's economic and governmental activity.[NEWLINE]Reykjavik is believed to be the location of the first permanent settlement in Iceland, which Ingólfur Arnarson is said to have established around 870. Until the 18th century, there was no urban development in the city location. The city was founded in 1786 as an official trading town and grew steadily over the next decades, as it transformed into a regional and later national centre of commerce, population and governmental activities. (from wikipedia)
+		</Text>
+    </Replace>
+	
+    <Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GARAMANTES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      	<Text>
+			The Garamantes were a Saharan people who used an elaborate underground irrigation system, and founded a prosperous Berber kingdom in the Fezzan area of modern-day Libya, in the Sahara desert. They were a local power in the Sahara between 500 BC and 700 AD.[NEWLINE][NEWLINE]There is little textual information about the Garamantes. Even the name Garamantes was a Greek name which the Romans later adopted. Available information comes mainly from Greek and Roman sources, as well as archaeological excavations in the area, though large areas in ruins remain unexcavated. Another important source of information are the abundant rock art, many of which depict life prior to the rise of the realm. (from wikipedia)
+		</Text>
+    </Replace>
+	
+  </LocalizedText>
+	
+</GameData>
