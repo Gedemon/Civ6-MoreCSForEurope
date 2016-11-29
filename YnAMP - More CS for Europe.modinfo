@@ -16,7 +16,7 @@
 	<Components>
 		<UpdateDatabase id="YNAMP_MORE_CS_EURO">
 			<Items>
-				<File>Table.sql</File>
+				<File>Tables.sql</File>
 				<File>NewCityStates.sql</File>
 				<File>TSL.xml</File>
 			</Items>
@@ -43,7 +43,7 @@
 	</LocalizedText>
 	
 	<Files>
-		<File>Table.sql</File>
+		<File>Tables.sql</File>
 		<File>GamePlayText.xml</File>
 		<File>TSL.xml</File>
 		<File>NewCityStates.sql</File>
