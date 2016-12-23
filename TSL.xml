@@ -190,4 +190,17 @@
 	
 	</StartPosition>
 	
+	
+	<!-- Cordiform Earth -->
+	<StartPosition>
+		
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_DUBLIN"		X="29" Y="34" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_GARAMANTES"	X="36" Y="16" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_KIEV"			X="45" Y="30" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_RABAT"			X="30" Y="19" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_REYKJAVIK"		X="33" Y="40" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_WARSAW"		X="42" Y="33" />
+				
+	</StartPosition>
+	
 </GameData>
