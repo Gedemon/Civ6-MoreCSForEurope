@@ -25,7 +25,7 @@ SELECT	'REYKJAVIK',		'Iceland',		'Icelander',	'Reykjavik city-state',		'Reykjavi
 SELECT	'GARAMANTES',		'Garama',		'Berber',		'Garama city-state',		'Garama'		UNION ALL
 SELECT	'RABAT',			'Morocco',		'Moroccan',		'Rabat city-state',			'Rabat'			UNION ALL
 SELECT	'KIEV',				'Kiev',			'Kievan',		'Kiev city-state',			'Kiev'			UNION ALL
-SELECT	'WARSAW',			'Warsaw',		'Polish',		'Warsaw city-state',		'Warsaw'		UNION ALL
+--SELECT	'WARSAW',			'Warsaw',		'Polish',		'Warsaw city-state',		'Warsaw'		UNION ALL
 SELECT	'DUBLIN',			'Dublin',		'Irish',		'Dublin city-state',		'Dublin'		UNION ALL
 SELECT	'END_OF_INSERT',	NULL,			NULL,			NULL,						NULL;
 -----------------------------------------------
