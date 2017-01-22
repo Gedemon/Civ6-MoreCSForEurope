@@ -15,6 +15,9 @@
 	</Settings>	
 	<Components>
 		<UpdateDatabase id="YNAMP_MORE_CS_EURO">
+           	<Properties>
+				<LoadOrder>10300</LoadOrder>
+           	</Properties>
 			<Items>
 				<File>Tables.sql</File>
 				<File>NewCityStates.sql</File>
@@ -23,6 +26,9 @@
 		</UpdateDatabase>
 				
 		<LocalizedText id="YNAMP_DEFAULT_COMPONENT">
+           	<Properties>
+				<LoadOrder>10300</LoadOrder>
+           	</Properties>
 			<Items>
 				<File>NewCityStatesTexts.sql</File>
 				<File>GamePlayText.xml</File>
