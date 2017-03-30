@@ -4,7 +4,7 @@
 	<StartPosition>
 	
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_AKSUM"			X="34" Y="37" />
-		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CAPE_TOWN"		X="26" Y="7" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CAPE_TOWN"		X="24" Y="7" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CUZCO"			X="153" Y="27" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_DAKAR"			X="3" Y="40" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_DUBLIN"		X="6" Y="75" />
@@ -69,14 +69,14 @@
 		
 	</StartPosition>
 
-	<!-- Play Europe Againh -->
+	<!-- Play Europe Again -->
 	<StartPosition>	
 		
         <Replace MapName="PlayEuropeAgain" Civilization="CIVILIZATION_DUBLIN"		X="22" Y="66" />
         <Replace MapName="PlayEuropeAgain" Civilization="CIVILIZATION_GARAMANTES"	X="41" Y="07" />
-        <Replace MapName="PlayEuropeAgain" Civilization="CIVILIZATION_KIEV"			X="72" Y="51" />
+        <Replace MapName="PlayEuropeAgain" Civilization="CIVILIZATION_KIEV"		X="72" Y="51" />
         <Replace MapName="PlayEuropeAgain" Civilization="CIVILIZATION_RABAT"		X="12" Y="25" />
-        <Replace MapName="PlayEuropeAgain" Civilization="CIVILIZATION_REYKJAVIK"	X="9" Y="89" />
+        <Replace MapName="PlayEuropeAgain" Civilization="CIVILIZATION_REYKJAVIK"	X="9" Y="90" />
 	
 	</StartPosition>
 	
