@@ -92,7 +92,7 @@ INSERT OR REPLACE INTO CityNames (CivilizationType, CityName)
 	FROM CityStatesConfiguration;
 
 -- <PlayerColors>
-INSERT OR REPLACE INTO Colors VALUES ('COLOR_PLAYER_CITY_STATE_SCIENTIFIC_SECONDARY','0.13','0.75','0.97','1'); -- they've used "SCIENCE" instead of "SCIENTIFIC" in that table, adding correct entry here
+INSERT OR REPLACE INTO Colors (Type, Color) VALUES ('COLOR_PLAYER_CITY_STATE_SCIENTIFIC_SECONDARY','33,191,247,255'); -- they've used "SCIENCE" instead of "SCIENTIFIC" in that table, adding correct entry here
 INSERT OR REPLACE INTO PlayerColors (Type, Usage, PrimaryColor, SecondaryColor, TextColor)
 	SELECT	'CIVILIZATION_' || Name, 'Minor', 'COLOR_PLAYER_CITY_STATE_PRIMARY', 'COLOR_PLAYER_CITY_STATE_' || Category || '_SECONDARY', 'COLOR_PLAYER_CITY_STATE_' || Category || '_SECONDARY'
 	FROM CityStatesConfiguration;

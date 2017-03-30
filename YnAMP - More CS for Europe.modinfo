@@ -1,15 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mod id="6c43d212-94df-4b35-8686-2fe199b9c7f7" version="1">
-  <Properties>
-    <Name>LOC_YNAMP_MORE_CS_EURO_TITLE</Name>
-    <Stability>Beta</Stability>
-    <Teaser>LOC_YNAMP_MORE_CS_EURO_TEASER</Teaser>
-    <Description>LOC_YNAMP_MORE_CS_EURO_DESCRIPTION</Description>
-    <Authors>Gedemon</Authors>
-  </Properties>
-  <Dependencies />
-  <References />
-  <Blocks />
+	<Properties>
+		<Name>LOC_YNAMP_MORE_CS_EURO_TITLE</Name>
+		<Stability>Beta</Stability>
+		<Teaser>LOC_YNAMP_MORE_CS_EURO_TEASER</Teaser>
+		<Description>LOC_YNAMP_MORE_CS_EURO_DESCRIPTION</Description>
+		<Authors>Gedemon</Authors>
+		<EnabledByDefault>0</EnabledByDefault>
+		<EnabledAtStartup>0</EnabledAtStartup>
+	</Properties>
+	<Blocks>
+		<Mod id="b7069e24-fb9c-4393-b836-44ec5c3dea98" title="YnAMP - More CS for the World" />
+	</Blocks>
   
 	<Settings>
 	</Settings>	
